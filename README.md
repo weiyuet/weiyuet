@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weiyuet
-- 👀 I’m interested in cloud computing, data science, and a huge cycling fan.
+- 👀 I’m interested in computer networking, data science, and a huge cycling fan.
 - 🌱 I’m currently learning cloud computing, and improving my R programming skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
