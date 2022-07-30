@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `weiyuet`
+- 👋 Hi, I’m `Wei Yuet`
 - I’m interested in understanding computer networking (especially packets), data science (and visualisations), and am a huge cycling fan.
 - I’m currently improving my skills in `R`, and doing more personal projects (mainly in `R`).
 - How to reach me - 
