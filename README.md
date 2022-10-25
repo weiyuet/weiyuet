@@ -1,5 +1,5 @@
 - 👋 Hi, I’m `Wei Yuet`
-- interested to work on computer networking (especially data flows), data analysis (and visualisations), and natural language processing (nlp).
+- fascinated with computer networking (especially data flows), data analysis (and visualisations), and natural language processing (nlp).
 - currently improving my skills, and doing more personal projects (mainly in `R`).
 - a huge cycling fan. 
 
